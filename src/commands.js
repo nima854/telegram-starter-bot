@@ -1,4 +1,4 @@
-```javascript
+
 const OWNER_ID = 8940262155;
 const DELETE_AFTER_MS = 30_000;
 
@@ -103,4 +103,3 @@ export function registerCommands(bot) {
     }
   });
 }
-```
